@@ -18,7 +18,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Bot token and owner ID (replace with yours)
-BOT_TOKEN = '8470386639:AAGOASdWV9YvvA6oVpUtkgVvi_Q7xxjxTtE'
+BOT_TOKEN = '8326131969:AAGBPbPIj1wYA55uSoOM45iJTh2m3KjRglE'
 OWNER_ID = 6031289574  # Replace with your Telegram user ID
 import logging
 import os
