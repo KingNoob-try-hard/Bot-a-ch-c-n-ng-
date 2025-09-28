@@ -1,5 +1,5 @@
 python-telegram-bot
+google-generativeai
 Pillow
 requests
-google-generativeai
-aiohttp
+beautifulsoup4
